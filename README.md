@@ -21,7 +21,7 @@ Waktu training jika menggunakan GPU T4 bisa cukup lama, bisa di adjust parameter
 
 - GPU A100 <a target="_blank" href="https://colab.research.google.com/drive/1ps_94n7HP7joqrPQotLLmIA6G3fwQ1qR?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+</a> *Notes: Dengan setup tambahan untuk environment Google Colab dengan GPU A100*
 
 ## Referensi
 
