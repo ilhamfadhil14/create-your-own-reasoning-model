@@ -1,0 +1,5 @@
+flowchart LR
+
+  curated[Curated Dataset] --> sft[/SFT Training/] --> sft_model[SFT Model]
+  sft_model --> rlgrpo[/RL /w GRPO/] --> r1[Deepseek-R1]
+  dataset[Dataset] --> rlgrpo
