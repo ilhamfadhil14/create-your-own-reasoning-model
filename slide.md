@@ -51,7 +51,7 @@ Topik ini kepikiran karena:
 
 **Disclaimer**
 
-Saya bukan ahli matematikawan. Sudut pandang diskusi ini terkait dengan tools dan metode fine-tuning, jadi mohon di koreksi kalau ada yang salah terkait dengan materinya.
+Saya bukan ahli matematika. Sudut pandang diskusi ini terkait dengan tools dan metode fine-tuning, jadi mohon di koreksi kalau ada yang salah terkait dengan materinya.
 
 --- 
 
